@@ -1,1 +1,1 @@
-﻿This is line 1 with some sample content for commit 1.Adding more text
+﻿This is line 1 with some sample content for commit 1.Adding more text content
