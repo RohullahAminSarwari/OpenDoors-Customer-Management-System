@@ -1,1 +1,1 @@
-﻿This is line 1 with some sample content for commit 1.Adding more text content to create multiple commits per line.Each word will be a
+﻿This is line 1 with some sample content for commit 1.Adding more text content to create multiple commits per line.Each word will be a separate
